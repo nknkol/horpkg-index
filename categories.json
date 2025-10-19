@@ -6,7 +6,7 @@
       "name": "System",
       "description": "System libraries and runtime",
       "icon": "⚙️",
-      "packages": ["horpkg-base"]
+      "packages": []
     },
     {
       "id": "development",
