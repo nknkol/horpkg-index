@@ -45,14 +45,14 @@
   "binaries": {
     "arm64-v8a": {
       "public_hnp": {
-        "url": "https://github.com/nknkol/horpkg-tree/releases/download/nightly-20251019-092925/tree-2.2.1-arm64-v8a.hnp",
-        "sha256": "2ed6cc1c74bb6164d072169cb15bb6aace699291bef266c66309aaa289a87fb8"
+        "url": "https://github.com/nknkol/horpkg-tree/releases/download/nightly-20251108-130007/tree-2.2.1-arm64-v8a.hnp",
+        "sha256": "c960c90267d14c70001ba64c12fe39e571c59fd5e344086988cf5eae592a3437"
       }
     },
     "x86_64": {
       "public_hnp": {
-        "url": "https://github.com/nknkol/horpkg-tree/releases/download/nightly-20251019-092925/tree-2.2.1-x86_64.hnp",
-        "sha256": "1df20493a627d70f7b0a3c3635923e9041dbf36405582384cbf627e0bd3ae818"
+        "url": "https://github.com/nknkol/horpkg-tree/releases/download/nightly-20251108-130007/tree-2.2.1-x86_64.hnp",
+        "sha256": "509c0c604df057f5cc6f491436e777b5345884ff1daf89ba905995de2d7ebe34"
       }
     }
   },
